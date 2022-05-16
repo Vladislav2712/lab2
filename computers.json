@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "627e1145df65f63f27b64d68"
+  },
+  "netname": "user-1-programmer",
+  "motherboard": "Asus",
+  "RAM_capacity": 32000,
+  "HDD_capacity": 1000000,
+  "monitor": "Asus",
+  "vendor": "Asus",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1654332800000"
+    }
+  },
+  "processor": "Intel Pentium",
+  "software": "PHP Storm"
+},{
+  "_id": {
+    "$oid": "627e146b5fbebdb7f0ddfc7b"
+  },
+  "netname": "user-2-admin",
+  "motherboard": "NVidia",
+  "RAM_capacity": 2000000,
+  "HDD_capacity": 16000,
+  "monitor": "NVidia",
+  "vendor": "NVidia",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1560560000000"
+    }
+  },
+  "processor": "Intel Core i6",
+  "software": "Microsoft Office 2019"
+},{
+  "_id": {
+    "$oid": "627e150f5fbebdb7f0ddfc7e"
+  },
+  "netname": "user-2-accountant",
+  "motherboard": "Gigabyte",
+  "RAM_capacity": 1500000,
+  "HDD_capacity": 16000,
+  "monitor": "Gigabyte",
+  "vendor": "Gigabyte",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1599982400000"
+    }
+  },
+  "processor": "Intel Core i7",
+  "software": "Microsoft Office 2019"
+},{
+  "_id": {
+    "$oid": "627e15b95fbebdb7f0ddfc7f"
+  },
+  "netname": "user-4-manager",
+  "motherboard": "MSI",
+  "RAM_capacity": 8000,
+  "HDD_capacity": 500000,
+  "monitor": "MSI",
+  "vendor": "MSI",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1690720400000"
+    }
+  },
+  "processor": "AMD Rysen 3",
+  "software": "Microsoft Office 2019"
+},{
+  "_id": {
+    "$oid": "627e16465fbebdb7f0ddfc80"
+  },
+  "netname": "user-5-lawyer",
+  "motherboard": "Intel",
+  "RAM_capacity": 32000,
+  "HDD_capacity": 20000000,
+  "monitor": "Intel",
+  "vendor": "Intel",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1628218400000"
+    }
+  },
+  "processor": "Intel Pentium",
+  "software": "Microsoft Office 2019"
+},{
+  "_id": {
+    "$oid": "627e16de5fbebdb7f0ddfc81"
+  },
+  "netname": "user-6-newbie",
+  "motherboard": "Biostar",
+  "RAM_capacity": 16000,
+  "HDD_capacity": 1500000,
+  "monitor": "Biostar",
+  "vendor": "Biostar",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "2096182400000"
+    }
+  },
+  "processor": "Intel Core i9",
+  "software": "Adobe Photoshop"
+}]
